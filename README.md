@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A code enthusiast and open-source advocate from São Paulo, Brazil.<br><br>I hold a Bachelor's degree in Linguistics and an Associate's in Systems Analysis and Development. I'm currently pursuing a postgraduate degree in Applied Artificial Intelligence at UFPR.</p>
+<p align="left">A code enthusiast and open-source advocate from São Paulo, Brazil.<br>I hold a Bachelor's degree in Linguistics and an Associate's in Systems Analysis and Development. I'm currently pursuing a postgraduate degree in Applied Artificial Intelligence at UFPR.</p>
 
 ###
 
