@@ -1,12 +1,12 @@
-<h2 align="left">Hello, I'm Ric!</h2>
+<h2 align="left">Hi there, I'm Ric!</h2>
 
 ###
 
-<h4 align="left">A code enthusiast and open-source advocate from São Paulo, Brazil.</h4>
+<p align="left">A code enthusiast and open-source advocate from São Paulo, Brazil.<br><br>I hold a Bachelor's degree in Linguistics and an Associate's in Systems Analysis and Development. I'm currently pursuing a postgraduate degree in Applied Artificial Intelligence at UFPR.</p>
 
 ###
 
-<p align="left">I hold a Bachelor's degree in Linguistics and an Associate's in Systems Analysis and Development. I'm currently pursuing a postgraduate degree in Applied Artificial Intelligence at UFPR.</p>
+<h3 align="left">Most used Languages and Tools</h3>
 
 ###
 
@@ -24,6 +24,10 @@
 
 ###
 
+<h2 align="left">Conect with me</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/ricardmonteiro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -34,6 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ric-monteiro/ric-monteiro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
 
 ###
