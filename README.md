@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">A code enthusiast and open-source advocate from São Paulo, Brazil.</h6>
+<h4 align="left">A code enthusiast and open-source advocate from São Paulo, Brazil.</h4>
 
 ###
 
