@@ -27,7 +27,7 @@ jobs:
 
           # === Required Options ===
           # The GitHub username to gather stats for
-          user: Your-Username # <-- IMPORTANT: Replace with your username!
+          user: ric-monteiro # <-- IMPORTANT: Replace with your username!
           
           # === Main Setup ===
           # The template to use. "classic" is a great starting point.
