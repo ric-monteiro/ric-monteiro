@@ -14,8 +14,9 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=r" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:mysql-dark.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:python-dark.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://api.iconify.design/devicon:jupyter.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:docker.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:bash-dark.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:mongodb.svg" />
 <br />
 
 ###
