@@ -4,9 +4,10 @@
 
 <p align="left">A code enthusiast and open-source advocate from São Paulo, Brazil.<br>I hold a Bachelor's degree in Linguistics and an Associate's in Systems Analysis and Development. I'm currently pursuing a postgraduate degree in Applied Artificial Intelligence at UFPR.</p>
 
-###
 
-<h3 align="left">Most used Languages and Technologies</h3>
+<h3 align="left">Most used Languages and Tools</h3>
+
+###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
@@ -23,8 +24,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
-
-<h2 align="left">Conect with me</h2>
 
 ###
 
