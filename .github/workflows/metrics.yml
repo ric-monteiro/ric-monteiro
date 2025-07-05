@@ -28,23 +28,8 @@ jobs:
           # === Required Options ===
           # The GitHub username to gather stats for
           user: ric-monteiro # <-- IMPORTANT: Replace with your username!
-          
-          # === Main Setup ===
-          # The template to use. "classic" is a great starting point.
-          template: classic
-          # The base content to display
-          base: header, activity, community, repositories, metadata
-          
+        
           # === Plugin: Contributions Calendar ===
           # This enables the isometric contributions calendar you wanted
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year # You can change this to "full-year"
-          
-          # === Optional: Other cool plugins ===
-          # Feel free to enable more plugins by setting them to "yes"
-          plugin_habits: yes
-          plugin_habits_from: 100 # Calculate habits from the last 100 commits
-          plugin_habits_days: 14   # Over the last 14 days
-          
-          plugin_languages: yes
-          plugin_languages_limit: 8 # Display the 8 most used languages
