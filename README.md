@@ -38,7 +38,3 @@
 <img src="https://raw.githubusercontent.com/ric-monteiro/ric-monteiro/output/snake.svg" alt="Snake animation" />
 
 ###
-
-### My GitHub Stats
-
-![Metrics](https://github.com/ric-monteiro/ric-monteiro/blob/main/github-metrics.svg)
