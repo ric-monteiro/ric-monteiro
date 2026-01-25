@@ -1,7 +1,7 @@
 <h2 align="left">Hi there, I'm Ric!</h2>
 
 <p align="left">
-  A code enthusiast and open-source advocate from São Paulo, Brazil.<br>
+  A code enthusiast and open-source advocate.<br>
   I hold a Bachelor's degree in Linguistics and an Associate's in Systems Analysis and Development. I'm currently pursuing a postgraduate degree in Applied Artificial Intelligence at UFPR.
 </p>
 
