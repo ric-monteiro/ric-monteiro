@@ -9,14 +9,26 @@
 
 <h2 align="left">Most used Languages and Tools</h2>
 
-<div>
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:git.svg" />
-  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:linux-dark.svg" />
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:javascript.svg" />
-  <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=r" />
-  <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:mysql-dark.svg" />
-  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:python-dark.svg" />
-  <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://api.iconify.design/skill-icons:bash-dark.svg" />
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
 </div>
 <br /><br />
 
