@@ -1,11 +1,8 @@
-<h2 align="left">Hi there, I'm Ric!</h2>
-
 <p align="left">
-  A code enthusiast and open-source advocate.<br>
-  I hold a Bachelor's degree in Linguistics and an Associate's in Systems Analysis and Development. I'm currently pursuing a postgraduate degree in Applied Artificial Intelligence at UFPR.
+  Data scientist who's a code enthusiast and open-source heavy user<br>
 </p>
 
-###
+<br>
 
 <h2 align="left">Most used Languages and Tools</h2>
 
@@ -30,8 +27,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
 </div>
-<br /><br />
-
-###
-
-<img src="https://raw.githubusercontent.com/ric-monteiro/ric-monteiro/output/snake.svg" alt="Snake animation" />
