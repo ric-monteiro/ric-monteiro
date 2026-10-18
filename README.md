@@ -34,14 +34,4 @@
 
 ###
 
-<h2 align="left">Connect with me</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ricardmonteiro/" target="_blank">
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg" width="47" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/ric-monteiro/ric-monteiro/output/snake.svg" alt="Snake animation" />
