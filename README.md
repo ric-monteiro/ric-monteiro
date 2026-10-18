@@ -1,5 +1,5 @@
 <p align="left">
-  I work with data, love writing code, and advocate for free and open-source software (FOSS).
+  Working with data, coding enthusiast, and FOSS advocate
 </p>
 
 <br>
