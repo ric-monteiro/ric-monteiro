@@ -1,5 +1,5 @@
 <p align="left">
-  Data scientist who's a code enthusiast and open-source heavy user<br>
+  Data scientist, coding enthusiast, and avid open-source user
 </p>
 
 <br>
